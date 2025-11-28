@@ -42,3 +42,6 @@ Basic error handling
 🧩 Clean and easy-to-read code
 
 🧑‍🎓 Perfect for beginners learning C programming
+
+![image alt] (<img width="813" height="177" alt="Screenshot 2025-11-28 124521" src="https://github.com/user-attachments/assets/f0990f1c-ceb1-46ea-a613-e8d44e5c1544" />
+
